@@ -1,0 +1,28 @@
+{
+  "categories": [{
+    "name": "Sepatu Basket",
+    "url": "/c/olahraga/basket/sepatu-basket",
+    "count": "2542",
+    "sub": null
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/olahraga/basket/lain-lain-1578",
+    "count": "1145",
+    "sub": null
+  }, {
+    "name": "Baju Basket",
+    "url": "/c/olahraga/basket/baju-basket",
+    "count": "622",
+    "sub": null
+  }, {
+    "name": "Bola Basket",
+    "url": "/c/olahraga/basket/bola-basket",
+    "count": "579",
+    "sub": null
+  }, {
+    "name": "Ring Basket",
+    "url": "/c/olahraga/basket/ring-basket",
+    "count": "82",
+    "sub": null
+  }]
+}

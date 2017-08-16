@@ -1,0 +1,18 @@
+{
+  "categories": [{
+    "name": "Tools",
+    "url": "/c/industrial/tools",
+    "count": "495",
+    "sub": null
+  }, {
+    "name": "Mesin",
+    "url": "/c/industrial/mesin",
+    "count": "362",
+    "sub": null
+  }, {
+    "name": "Safety",
+    "url": "/c/industrial/safety",
+    "count": "224",
+    "sub": null
+  }]
+}

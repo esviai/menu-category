@@ -1,0 +1,33 @@
+{
+  "categories": [{
+    "name": "Cemilan / Snack",
+    "url": "/c/food/cemilan-snack",
+    "count": 32895,
+    "sub": null
+  }, {
+    "name": "Makanan",
+    "url": "/c/food/makanan",
+    "count": 29418,
+    "sub": null
+  }, {
+    "name": "Minuman",
+    "url": "/c/food/minuman",
+    "count": 20589,
+    "sub": null
+  }, {
+    "name": "Bahan Mentah",
+    "url": "/c/food/bahan-mentah",
+    "count": 4324,
+    "sub": null
+  }, {
+    "name": "Bumbu",
+    "url": "/c/food/bumbu",
+    "count": 4064,
+    "sub": "food/bumbu.json"
+  }, {
+    "name": "Dairy Products",
+    "url": "/c/food/dairy-products",
+    "count": 1727,
+    "sub": null
+  }]
+}

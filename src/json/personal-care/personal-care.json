@@ -1,0 +1,38 @@
+{
+  "categories": [{
+    "name": "Produk Kecantikan",
+    "url": "/c/personal-care/produk-kecantikan",
+    "count": "268536",
+    "sub": "personal-care/produk-kecantikan.json"
+  }, {
+    "name": "Produk Kesehatan",
+    "url": "/c/personal-care/produk-kesehatan",
+    "count": "156546",
+    "sub": null
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/personal-care/lain-lain-747",
+    "count": "37028",
+    "sub": null
+  }, {
+    "name": "Women's Perfume",
+    "url": "/c/personal-care/women-s-perfume",
+    "count": "23747",
+    "sub": null
+  }, {
+    "name": "Men's Perfume",
+    "url": "/c/personal-care/men-s-perfume",
+    "count": "14029",
+    "sub": null
+  }, {
+    "name": "Men's Grooming",
+    "url": "/c/personal-care/men-s-grooming",
+    "count": "8525",
+    "sub": null
+  }, {
+    "name": "Self Defense",
+    "url": "/c/personal-care/self-defense",
+    "count": "2663",
+    "sub": null
+  }]
+}

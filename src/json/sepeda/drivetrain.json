@@ -1,0 +1,53 @@
+{
+  "categories": [{
+    "name": "Crank",
+    "url": "/c/sepeda/drivetrain/crank-255",
+    "count": "2747",
+    "sub": null
+  }, {
+    "name": "Pedal",
+    "url": "/c/sepeda/drivetrain/pedal-476",
+    "count": "2618",
+    "sub": null
+  }, {
+    "name": "Sprocket &amp; Gear",
+    "url": "/c/sepeda/drivetrain/sprocket-gear",
+    "count": "1499",
+    "sub": null
+  }, {
+    "name": "Rear Derailleur (RD)",
+    "url": "/c/sepeda/drivetrain/rear-derailleur-rd",
+    "count": "1288",
+    "sub": null
+  }, {
+    "name": "Rantai",
+    "url": "/c/sepeda/drivetrain/rantai",
+    "count": "1231",
+    "sub": null
+  }, {
+    "name": "Front Derailleur (FD)",
+    "url": "/c/sepeda/drivetrain/front-derailleur-fd",
+    "count": "907",
+    "sub": null
+  }, {
+    "name": "Bottom Bracket",
+    "url": "/c/sepeda/drivetrain/bottom-bracket",
+    "count": "853",
+    "sub": null
+  }, {
+    "name": "Group Set",
+    "url": "/c/sepeda/drivetrain/group-set",
+    "count": "841",
+    "sub": null
+  }, {
+    "name": "Cleat",
+    "url": "/c/sepeda/drivetrain/cleat",
+    "count": "127",
+    "sub": null
+  }, {
+    "name": "Toeclip &amp; Strap",
+    "url": "/c/sepeda/drivetrain/toeclip-strap",
+    "count": "93",
+    "sub": null
+  }]
+}

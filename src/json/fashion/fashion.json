@@ -1,0 +1,43 @@
+{
+  "categories": [{
+    "name": "Wanita",
+    "url": "/c/fashion/wanita",
+    "count": 2087056,
+    "sub": "fashion/wanita.json"
+  }, {
+    "name": "Pria",
+    "url": "/c/fashion/pria",
+    "count": 1897420,
+    "sub": "fashion/pria.json"
+  }, {
+    "name": "Busana Muslim",
+    "url": "/c/fashion/busana-muslim",
+    "count": 375978,
+    "sub": "fashion/busana-muslim.json"
+  }, {
+    "name": "Couple",
+    "url": "/c/fashion/couple",
+    "count": 173259,
+    "sub": "fashion/couple.json"
+  }, {
+    "name": "Anak Perempuan",
+    "url": "/c/fashion/anak-perempuan",
+    "count": 80389,
+    "sub": "fashion/anak-perempuan.json"
+  }, {
+    "name": "Anak (Unisex)",
+    "url": "/c/fashion/anak-unisex",
+    "count": 70970,
+    "sub": "fashion/anak-unisex.json"
+  }, {
+    "name": "Anak Laki-laki",
+    "url": "/c/fashion/anak-laki-laki",
+    "count": 54191,
+    "sub": "fashion/anak-laki-laki.json"
+  }, {
+    "name": "Bahan &amp; Kain",
+    "url": "/c/fashion/bahan-kain",
+    "count": 22012,
+    "sub": null
+  }]
+}

@@ -1,0 +1,28 @@
+{
+  "categories": [{
+    "name": "Games (CD, Cassette, etc) Original",
+    "url": "/c/hobi/video-game/games-cd-cassette-etc-original",
+    "count": "6354",
+    "sub": null
+  }, {
+    "name": "Aksesoris",
+    "url": "/c/hobi/video-game/aksesoris",
+    "count": "4583",
+    "sub": null
+  }, {
+    "name": "Console",
+    "url": "/c/hobi/video-game/console",
+    "count": "4431",
+    "sub": null
+  }, {
+    "name": "Joystick &amp; Gamepad",
+    "url": "/c/hobi/video-game/joystick-gamepad",
+    "count": "2888",
+    "sub": null
+  }, {
+    "name": "Game Watch / Portable",
+    "url": "/c/hobi/video-game/game-watch-portable",
+    "count": "555",
+    "sub": null
+  }]
+}

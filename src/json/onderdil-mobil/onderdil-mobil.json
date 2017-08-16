@@ -1,0 +1,43 @@
+{
+  "categories": [{
+    "name": "Aksesoris Mobil",
+    "url": "/c/onderdil-mobil/aksesoris-mobil",
+    "count": "150611",
+    "sub": "onderdil-mobil/aksesoris-mobil.json"
+  }, {
+    "name": "Eksterior Mobil",
+    "url": "/c/onderdil-mobil/eksterior-mobil",
+    "count": "45762",
+    "sub": "onderdil-mobil/eksterior-mobil.json"
+  }, {
+    "name": "Mesin Mobil",
+    "url": "/c/onderdil-mobil/mesin-mobil",
+    "count": "19882",
+    "sub": "onderdil-mobil/mesin-mobil.json"
+  }, {
+    "name": "Kaki-kaki Mobil",
+    "url": "/c/onderdil-mobil/kaki-kaki-mobil",
+    "count": "10680",
+    "sub": "onderdil-mobil/kaki-kaki-mobil.json"
+  }, {
+    "name": "Audio Mobil",
+    "url": "/c/onderdil-mobil/audio-mobil",
+    "count": "9032",
+    "sub": "onderdil-mobil/audio-mobil.json"
+  }, {
+    "name": "Produk Perawatan Mobil",
+    "url": "/c/onderdil-mobil/produk-perawatan-mobil",
+    "count": "6904",
+    "sub": "onderdil-mobil/produk-perawatan-mobil.json"
+  }, {
+    "name": "Interior Mobil",
+    "url": "/c/onderdil-mobil/interior-mobil",
+    "count": "6345",
+    "sub": "onderdil-mobil/interior-mobil.json"
+  }, {
+    "name": "Exhaust System Mobil",
+    "url": "/c/onderdil-mobil/exhaust-system-mobil",
+    "count": "1367",
+    "sub": "onderdil-mobil/exhaust-system-mobil.json"
+  }]
+}

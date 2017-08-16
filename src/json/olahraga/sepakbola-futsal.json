@@ -1,0 +1,33 @@
+{
+  "categories": [{
+    "name": "Jersey",
+    "url": "/c/olahraga/sepakbola-futsal/jersey-1557",
+    "count": "30942",
+    "sub": null
+  }, {
+    "name": "Sepatu Bola",
+    "url": "/c/olahraga/sepakbola-futsal/sepatu-bola",
+    "count": "13374",
+    "sub": null
+  }, {
+    "name": "Sepatu Futsal",
+    "url": "/c/olahraga/sepakbola-futsal/sepatu-futsal",
+    "count": "10002",
+    "sub": null
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/olahraga/sepakbola-futsal/lain-lain-1563",
+    "count": "7759",
+    "sub": null
+  }, {
+    "name": "Bola",
+    "url": "/c/olahraga/sepakbola-futsal/bola",
+    "count": "984",
+    "sub": null
+  }, {
+    "name": "Kaos Kaki",
+    "url": "/c/olahraga/sepakbola-futsal/kaos-kaki-1560",
+    "count": "623",
+    "sub": null
+  }]
+}

@@ -1,0 +1,38 @@
+{
+  "categories": [{
+    "name": "MTB",
+    "url": "/c/sepeda/fullbike/mtb",
+    "count": "3768",
+    "sub": null
+  }, {
+    "name": "Roadbike",
+    "url": "/c/sepeda/fullbike/roadbike",
+    "count": "1100",
+    "sub": null
+  }, {
+    "name": "City Bike",
+    "url": "/c/sepeda/fullbike/city-bike",
+    "count": "584",
+    "sub": null
+  }, {
+    "name": "BMX",
+    "url": "/c/sepeda/fullbike/bmx-380",
+    "count": "538",
+    "sub": null
+  }, {
+    "name": "Fixie",
+    "url": "/c/sepeda/fullbike/fixie",
+    "count": "437",
+    "sub": null
+  }, {
+    "name": "Sepeda Lipat",
+    "url": "/c/sepeda/fullbike/sepeda-lipat-375",
+    "count": "376",
+    "sub": null
+  }, {
+    "name": "Onthel",
+    "url": "/c/sepeda/fullbike/onthel-382",
+    "count": "295",
+    "sub": null
+  }]
+}

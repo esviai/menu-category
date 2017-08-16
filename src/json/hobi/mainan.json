@@ -1,0 +1,68 @@
+{
+  "categories": [{
+    "name": "Diecast",
+    "url": "/c/hobi/mainan/diecast",
+    "count": "81164",
+    "sub": null
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/hobi/mainan/lain-lain-345",
+    "count": "71449",
+    "sub": null
+  }, {
+    "name": "Puzzle",
+    "url": "/c/hobi/mainan/puzzle",
+    "count": "52356",
+    "sub": null
+  }, {
+    "name": "Action Figure",
+    "url": "/c/hobi/mainan/action-figure",
+    "count": "40921",
+    "sub": null
+  }, {
+    "name": "Bricks",
+    "url": "/c/hobi/mainan/bricks",
+    "count": "27653",
+    "sub": null
+  }, {
+    "name": "Boneka",
+    "url": "/c/hobi/mainan/boneka",
+    "count": "23112",
+    "sub": null
+  }, {
+    "name": "Remote Control",
+    "url": "/c/hobi/mainan/remote-control",
+    "count": "18082",
+    "sub": null
+  }, {
+    "name": "Model Kit",
+    "url": "/c/hobi/mainan/model-kit",
+    "count": "13600",
+    "sub": null
+  }, {
+    "name": "Static Figure",
+    "url": "/c/hobi/mainan/static-figure",
+    "count": "5362",
+    "sub": null
+  }, {
+    "name": "Kartu",
+    "url": "/c/hobi/mainan/kartu",
+    "count": "3975",
+    "sub": null
+  }, {
+    "name": "Board Games",
+    "url": "/c/hobi/mainan/board-games",
+    "count": "1718",
+    "sub": null
+  }, {
+    "name": "Mainan Tradisional",
+    "url": "/c/hobi/mainan/mainan-tradisional",
+    "count": "1433",
+    "sub": null
+  }, {
+    "name": "Skuter",
+    "url": "/c/hobi/mainan/skuter",
+    "count": "814",
+    "sub": null
+  }]
+}

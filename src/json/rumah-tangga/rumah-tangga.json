@@ -1,0 +1,73 @@
+{
+  "categories": [{
+    "name": "Kamar Tidur",
+    "url": "/c/rumah-tangga/kamar-tidur",
+    "count": "130759",
+    "sub": null
+  }, {
+    "name": "Dapur",
+    "url": "/c/rumah-tangga/dapur",
+    "count": "116567",
+    "sub": null
+  }, {
+    "name": "Home Stuff",
+    "url": "/c/rumah-tangga/home-stuff",
+    "count": "105319",
+    "sub": null
+  }, {
+    "name": "Furniture &amp; Interior",
+    "url": "/c/rumah-tangga/furniture-interior",
+    "count": "95990",
+    "sub": "rumah-tangga/furniture-interior.json"
+  }, {
+    "name": "Elektronik",
+    "url": "/c/rumah-tangga/elektronik-1111",
+    "count": "75982",
+    "sub": "rumah-tangga/elektronik.json"
+  }, {
+    "name": "Perkakas",
+    "url": "/c/rumah-tangga/perkakas",
+    "count": "56745",
+    "sub": null
+  }, {
+    "name": "Tempat Penyimpanan &amp; Organizer",
+    "url": "/c/rumah-tangga/tempat-penyimpanan-organizer",
+    "count": "32553",
+    "sub": null
+  }, {
+    "name": "Kamar Mandi",
+    "url": "/c/rumah-tangga/kamar-mandi",
+    "count": "15102",
+    "sub": null
+  }, {
+    "name": "Alat Tulis",
+    "url": "/c/rumah-tangga/alat-tulis",
+    "count": "12846",
+    "sub": "rumah-tangga/alat-tulis.json"
+  }, {
+    "name": "Ruang Makan",
+    "url": "/c/rumah-tangga/ruang-makan",
+    "count": "12432",
+    "sub": null
+  }, {
+    "name": "Perlengkapan Kebersihan",
+    "url": "/c/rumah-tangga/perlengkapan-kebersihan",
+    "count": "10992",
+    "sub": null
+  }, {
+    "name": "Jam",
+    "url": "/c/rumah-tangga/jam",
+    "count": "5984",
+    "sub": null
+  }, {
+    "name": "Gembok &amp; Kunci Pengaman",
+    "url": "/c/rumah-tangga/gembok-kunci-pengaman",
+    "count": "3684",
+    "sub": null
+  }, {
+    "name": "Payung",
+    "url": "/c/rumah-tangga/payung",
+    "count": "1651",
+    "sub": null
+  }]
+}

@@ -1,0 +1,98 @@
+{
+  "categories": [{
+    "name": "Fashion",
+    "url": "/c/fashion",
+    "count": 4762549,
+    "sub": "fashion/fashion.json"
+  }, {
+    "name": "Handphone",
+    "url": "/c/handphone",
+    "count": 1013041,
+    "sub": "handphone/handphone.json"
+  }, {
+    "name": "Rumah Tangga",
+    "url": "/c/rumah-tangga",
+    "count": 676941,
+    "sub": "rumah-tangga/rumah-tangga.json"
+  }, {
+    "name": "Hobi",
+    "url": "/c/hobi",
+    "count": 598365,
+    "sub": "hobi/hobi.json"
+  }, {
+    "name": "Personal Care",
+    "url": "/c/personal-care",
+    "count": 511322,
+    "sub": "personal-care/personal-care.json"
+  }, {
+    "name": "Motor",
+    "url": "/c/motor-471",
+    "count": 412562,
+    "sub": "motor/motor.json"
+  }, {
+    "name": "Komputer",
+    "url": "/c/komputer",
+    "count": 339614,
+    "sub": "komputer/komputer.json"
+  }, {
+    "name": "Olahraga",
+    "url": "/c/olahraga",
+    "count": 283196,
+    "sub": "olahraga/olahraga.json"
+  }, {
+    "name": "Batu Cincin",
+    "url": "/c/batu-cincin",
+    "count": 282352,
+    "sub": "batu-cincin/batu-cincin.json"
+  }, {
+    "name": "Buku",
+    "url": "/c/buku",
+    "count": 35668,
+    "sub": "buku/buku.json"
+  }, {
+    "name": "Onderdil Mobil",
+    "url": "/c/onderdil-mobil",
+    "count": 250610,
+    "sub": "onderdil-mobil/onderdil-mobil.json"
+  }, {
+    "name": "Elektronik",
+    "url": "/c/elektronik",
+    "count": 165564,
+    "sub": "elektronik/elektronik.json"
+  }, {
+    "name": "Perlengkapan Bayi",
+    "url": "/c/perlengkapan-bayi",
+    "count": 164672,
+    "sub": "perlengkapan-bayi/perlengkapan-bayi.json"
+  }, {
+    "name": "Kamera",
+    "url": "/c/kamera",
+    "count": 152810,
+    "sub": "kamera/kamera.json"
+  }, {
+    "name": "Sepeda",
+    "url": "/c/sepeda",
+    "count": 105974,
+    "sub": "sepeda/sepeda.json"
+  }, {
+    "name": "Food",
+    "url": "/c/food",
+    "count": 93117,
+    "sub": "food/food.json"
+  }, {
+    "name": "Perlengkapan Kantor",
+    "url": "/c/perlengkapan-kantor",
+    "count": 56890,
+    "sub": null
+  }, {
+    "name": "Industrial",
+    "url": "/c/industrial",
+    "count": 1283,
+    "sub": "industrial/industrial.json"
+  }, {
+    "name": "Mobil",
+    "url": "/c/mobil",
+    "count": 16,
+    "sub": "mobil/mobil.json"
+  }]
+}

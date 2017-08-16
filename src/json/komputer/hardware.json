@@ -1,0 +1,33 @@
+{
+  "categories": [{
+    "name": "Hard Disk &amp; RAM",
+    "url": "/c/komputer/hardware-1510/hard-disk-ram",
+    "count": "17649",
+    "sub": null
+  }, {
+    "name": "Motherboard",
+    "url": "/c/komputer/hardware-1510/motherboard",
+    "count": "4968",
+    "sub": null
+  }, {
+    "name": "VGA",
+    "url": "/c/komputer/hardware-1510/vga",
+    "count": "4143",
+    "sub": null
+  }, {
+    "name": "Processor",
+    "url": "/c/komputer/hardware-1510/processor",
+    "count": "3354",
+    "sub": null
+  }, {
+    "name": "UPS",
+    "url": "/c/komputer/hardware-1510/ups",
+    "count": "1971",
+    "sub": null
+  }, {
+    "name": "SSD",
+    "url": "/c/komputer/hardware-1510/ssd",
+    "count": "1133",
+    "sub": null
+  }]
+}

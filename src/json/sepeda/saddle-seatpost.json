@@ -1,0 +1,23 @@
+{
+  "categories": [{
+    "name": "Saddle",
+    "url": "/c/sepeda/saddle-seatpost/saddle",
+    "count": "3249",
+    "sub": null
+  }, {
+    "name": "Seatpost",
+    "url": "/c/sepeda/saddle-seatpost/seatpost",
+    "count": "1732",
+    "sub": null
+  }, {
+    "name": "Seatclamp &amp; Seatpin",
+    "url": "/c/sepeda/saddle-seatpost/seatclamp-seatpin",
+    "count": "532",
+    "sub": null
+  }, {
+    "name": "Saddle Cover",
+    "url": "/c/sepeda/saddle-seatpost/saddle-cover",
+    "count": "258",
+    "sub": null
+  }]
+}

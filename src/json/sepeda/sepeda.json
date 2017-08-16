@@ -1,0 +1,63 @@
+{
+  "categories": [{
+    "name": "Outwear",
+    "url": "/c/sepeda/outwear",
+    "count": "26269",
+    "sub": "sepeda/outwear.json"
+  }, {
+    "name": "Equipment &amp; Tools",
+    "url": "/c/sepeda/equipment-tools",
+    "count": "18446",
+    "sub": "sepeda/equipment-tools.json"
+  }, {
+    "name": "Drivetrain",
+    "url": "/c/sepeda/drivetrain",
+    "count": "12207",
+    "sub": "sepeda/drivetrain.json"
+  }, {
+    "name": "Steering",
+    "url": "/c/sepeda/steering",
+    "count": "12081",
+    "sub": "sepeda/steering.json"
+  }, {
+    "name": "Wheel (Hub, Rims, dll)",
+    "url": "/c/sepeda/wheel-hub-rims-dll",
+    "count": "10813",
+    "sub": "sepeda/wheel-hub-rims-dll.json"
+  }, {
+    "name": "Fullbike",
+    "url": "/c/sepeda/fullbike",
+    "count": "7100",
+    "sub": "sepeda/fullbike.json"
+  }, {
+    "name": "Saddle &amp; Seatpost",
+    "url": "/c/sepeda/saddle-seatpost",
+    "count": "5771",
+    "sub": "sepeda/saddle-seatpost.json"
+  }, {
+    "name": "Brake",
+    "url": "/c/sepeda/brake",
+    "count": "4160",
+    "sub": "sepeda/brake.json"
+  }, {
+    "name": "Frame",
+    "url": "/c/sepeda/frame",
+    "count": "3540",
+    "sub": "sepeda/frame.json"
+  }, {
+    "name": "Part Generik",
+    "url": "/c/sepeda/part-generik",
+    "count": "3067",
+    "sub": null
+  }, {
+    "name": "Fork &amp; Suspension",
+    "url": "/c/sepeda/fork-suspension",
+    "count": "2288",
+    "sub": "sepeda/fork-suspension.json"
+  }, {
+    "name": "Nutrition &amp; Energy",
+    "url": "/c/sepeda/nutrition-energy",
+    "count": "180",
+    "sub": null
+  }]
+}

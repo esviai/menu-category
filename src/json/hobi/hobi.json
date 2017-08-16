@@ -1,0 +1,33 @@
+{
+  "categories": [{
+    "name": "Mainan",
+    "url": "/c/hobi/mainan",
+    "count": "341993",
+    "sub": "hobi/mainan.json"
+  }, {
+    "name": "Koleksi",
+    "url": "/c/hobi/koleksi",
+    "count": "144658",
+    "sub": "hobi/koleksi.json"
+  }, {
+    "name": "Berkebun",
+    "url": "/c/hobi/berkebun",
+    "count": "37978",
+    "sub": null
+  }, {
+    "name": "Alat Musik",
+    "url": "/c/hobi/alat-musik",
+    "count": "34192",
+    "sub": "hobi/alat-musik.json"
+  }, {
+    "name": "Pet Food &amp; Stuff",
+    "url": "/c/hobi/pet-food-stuff",
+    "count": "20625",
+    "sub": null
+  }, {
+    "name": "Video Game",
+    "url": "/c/hobi/video-game",
+    "count": "18813",
+    "sub": "hobi/video-game.json"
+  }]
+}

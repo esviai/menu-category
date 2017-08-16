@@ -1,0 +1,28 @@
+{
+  "categories": [{
+    "name": "Batu Akik",
+    "url": "/c/batu-cincin/batu-akik",
+    "count": 174524,
+    "sub": "batu-cincin/batu-akik.json"
+  }, {
+    "name": "Batu Mulia Permata",
+    "url": "/c/batu-cincin/batu-mulia-permata",
+    "count": 58205,
+    "sub": "batu-cincin/batu-mulia-permata.json"
+  }, {
+    "name": "Rough/Bahan Batu Akik",
+    "url": "/c/batu-cincin/rough-bahan-batu-akik",
+    "count": 26387,
+    "sub": "batu-cincin/rough-bahan-batu-akik.json"
+  }, {
+    "name": "Aksesoris &amp; Perkakas",
+    "url": "/c/batu-cincin/aksesoris-perkakas",
+    "count": 17345,
+    "sub": "batu-cincin/aksesoris-perkakas.json"
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/batu-cincin/lain-lain-1312",
+    "count": 5891,
+    "sub": null
+  }]
+}

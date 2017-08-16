@@ -1,0 +1,38 @@
+{
+  "categories": [{
+    "name": "Islam",
+    "url": "/c/buku/agama-kepercayaan/islam",
+    "count": 31838,
+    "sub": null
+  }, {
+    "name": "Kristen Protestan",
+    "url": "/c/buku/agama-kepercayaan/kristen-protestan",
+    "count": 1929,
+    "sub": null
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/buku/agama-kepercayaan/lain-lain-845",
+    "count": 690,
+    "sub": null
+  }, {
+    "name": "Katolik",
+    "url": "/c/buku/agama-kepercayaan/katolik",
+    "count": 295,
+    "sub": null
+  }, {
+    "name": "Buddha",
+    "url": "/c/buku/agama-kepercayaan/buddha",
+    "count": 189,
+    "sub": null
+  }, {
+    "name": "Kong Hu Cu",
+    "url": "/c/buku/agama-kepercayaan/kong-hu-cu",
+    "count": 86,
+    "sub": null
+  }, {
+    "name": "Hindu",
+    "url": "/c/buku/agama-kepercayaan/hindu",
+    "count": 43,
+    "sub": null
+  }]
+}

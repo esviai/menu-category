@@ -1,0 +1,73 @@
+{
+  "categories": [{
+    "name": "Pakaian Bayi",
+    "url": "/c/perlengkapan-bayi/pakaian-bayi",
+    "count": "59266",
+    "sub": "perlengkapan-bayi/pakaian-bayi.json"
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/perlengkapan-bayi/lain-lain-741",
+    "count": "27230",
+    "sub": null
+  }, {
+    "name": "Mainan",
+    "url": "/c/perlengkapan-bayi/mainan-663",
+    "count": "20815",
+    "sub": null
+  }, {
+    "name": "Perlengkapan Makan",
+    "url": "/c/perlengkapan-bayi/perlengkapan-makan",
+    "count": "10125",
+    "sub": null
+  }, {
+    "name": "Feeding &amp; Nursing",
+    "url": "/c/perlengkapan-bayi/feeding-nursing",
+    "count": "8533",
+    "sub": null
+  }, {
+    "name": "Perlengkapan Tidur",
+    "url": "/c/perlengkapan-bayi/perlengkapan-tidur",
+    "count": "7718",
+    "sub": null
+  }, {
+    "name": "Perlengkapan Mandi",
+    "url": "/c/perlengkapan-bayi/perlengkapan-mandi",
+    "count": "6672",
+    "sub": null
+  }, {
+    "name": "Diapering",
+    "url": "/c/perlengkapan-bayi/diapering",
+    "count": "4812",
+    "sub": null
+  }, {
+    "name": "Stroller &amp; Walker",
+    "url": "/c/perlengkapan-bayi/stroller-walker",
+    "count": "4795",
+    "sub": null
+  }, {
+    "name": "Perawatan Tubuh",
+    "url": "/c/perlengkapan-bayi/perawatan-tubuh",
+    "count": "4498",
+    "sub": null
+  }, {
+    "name": "Makanan",
+    "url": "/c/perlengkapan-bayi/makanan-711",
+    "count": "3805",
+    "sub": "perlengkapan-bayi/makanan.json"
+  }, {
+    "name": "Baby Carrier",
+    "url": "/c/perlengkapan-bayi/baby-carrier",
+    "count": "3234",
+    "sub": null
+  }, {
+    "name": "Bouncer &amp; Chair",
+    "url": "/c/perlengkapan-bayi/bouncer-chair",
+    "count": "2024",
+    "sub": null
+  }, {
+    "name": "Furniture",
+    "url": "/c/perlengkapan-bayi/furniture",
+    "count": "581",
+    "sub": "perlengkapan-bayi/furniture.json"
+  }]
+}

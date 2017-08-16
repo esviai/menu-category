@@ -1,0 +1,28 @@
+{
+  "categories": [{
+    "name": "Sparepart Motor",
+    "url": "/c/motor-471/sparepart-motor",
+    "count": "210124",
+    "sub": "motor/sparepart-motor.json"
+  }, {
+    "name": "Aksesoris Motor",
+    "url": "/c/motor-471/aksesoris-motor",
+    "count": "168262",
+    "sub": "motor/aksesoris-motor.json"
+  }, {
+    "name": "Outwear Motor",
+    "url": "/c/motor-471/outwear-motor",
+    "count": "31448",
+    "sub": "motor/outwear-motor.json"
+  }, {
+    "name": "Produk Perawatan Motor",
+    "url": "/c/motor-471/produk-perawatan-motor",
+    "count": "2208",
+    "sub": "motor/produk-perawatan-motor.json"
+  }, {
+    "name": "Motor",
+    "url": "/c/motor-471/motor-1545",
+    "count": "87",
+    "sub": null
+  }]
+}

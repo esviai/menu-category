@@ -1,0 +1,58 @@
+{
+  "categories": [{
+    "name": "Aksesoris",
+    "url": "/c/komputer/aksesoris-226",
+    "count": "239044",
+    "sub": "komputer/aksesoris.json"
+  }, {
+    "name": "Hardware",
+    "url": "/c/hardware",
+    "count": "33218",
+    "sub": "komputer/hardware.json"
+  }, {
+    "name": "Printer",
+    "url": "/c/komputer/printer",
+    "count": "27285",
+    "sub": null
+  }, {
+    "name": "Laptop",
+    "url": "/c/komputer/laptop",
+    "count": "17213",
+    "sub": null
+  }, {
+    "name": "Software Original",
+    "url": "/c/komputer/software-original",
+    "count": "7772",
+    "sub": null
+  }, {
+    "name": "Tablet",
+    "url": "/c/komputer/tablet",
+    "count": "4532",
+    "sub": null
+  }, {
+    "name": "Desktop",
+    "url": "/c/komputer/desktop",
+    "count": "4115",
+    "sub": null
+  }, {
+    "name": "Monitor",
+    "url": "/c/komputer/monitor",
+    "count": "2392",
+    "sub": null
+  }, {
+    "name": "Scanner",
+    "url": "/c/komputer/scanner",
+    "count": "2114",
+    "sub": null
+  }, {
+    "name": "Server",
+    "url": "/c/komputer/server",
+    "count": "1449",
+    "sub": null
+  }, {
+    "name": "Mini PC",
+    "url": "/c/komputer/mini-pc",
+    "count": "360",
+    "sub": null
+  }]
+}

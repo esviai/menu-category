@@ -1,0 +1,38 @@
+{
+  "categories": [{
+    "name": "Face",
+    "url": "/c/personal-care/produk-kecantikan/face",
+    "count": "85253",
+    "sub": null
+  }, {
+    "name": "Body",
+    "url": "/c/personal-care/produk-kecantikan/body",
+    "count": "42816",
+    "sub": null
+  }, {
+    "name": "Make Up",
+    "url": "/c/personal-care/produk-kecantikan/make-up",
+    "count": "42750",
+    "sub": null
+  }, {
+    "name": "Skin",
+    "url": "/c/personal-care/produk-kecantikan/skin",
+    "count": "35221",
+    "sub": null
+  }, {
+    "name": "Hair",
+    "url": "/c/personal-care/produk-kecantikan/hair",
+    "count": "34390",
+    "sub": null
+  }, {
+    "name": "Nail",
+    "url": "/c/personal-care/produk-kecantikan/nail",
+    "count": "9151",
+    "sub": null
+  }, {
+    "name": "Make Up Kit",
+    "url": "/c/personal-care/produk-kecantikan/make-up-kit",
+    "count": "8808",
+    "sub": null
+  }]
+}

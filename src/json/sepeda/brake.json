@@ -1,0 +1,48 @@
+{
+  "categories": [{
+    "name": "Brake Set",
+    "url": "/c/sepeda/brake/brake-set",
+    "count": "822",
+    "sub": null
+  }, {
+    "name": "Rotor",
+    "url": "/c/sepeda/brake/rotor",
+    "count": "808",
+    "sub": null
+  }, {
+    "name": "Brake Pad &amp; Brake Shoe",
+    "url": "/c/sepeda/brake/brake-pad-brake-shoe",
+    "count": "794",
+    "sub": null
+  }, {
+    "name": "Disc Brake",
+    "url": "/c/sepeda/brake/disc-brake",
+    "count": "674",
+    "sub": null
+  }, {
+    "name": "U Brake",
+    "url": "/c/sepeda/brake/u-brake",
+    "count": "284",
+    "sub": null
+  }, {
+    "name": "Brake Lever",
+    "url": "/c/sepeda/brake/brake-lever",
+    "count": "258",
+    "sub": null
+  }, {
+    "name": "V Brake",
+    "url": "/c/sepeda/brake/v-brake",
+    "count": "175",
+    "sub": null
+  }, {
+    "name": "Caliper",
+    "url": "/c/sepeda/brake/caliper",
+    "count": "144",
+    "sub": null
+  }, {
+    "name": "Cantilever",
+    "url": "/c/sepeda/brake/cantilever",
+    "count": "102",
+    "sub": null
+  }]
+}

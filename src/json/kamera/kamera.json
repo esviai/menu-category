@@ -1,0 +1,108 @@
+{
+  "categories": [{
+    "name": "Aksesoris Kamera",
+    "url": "/c/kamera/aksesoris-kamera",
+    "count": "20042",
+    "sub": "kamera/aksesoris-kamera.json"
+  }, {
+    "name": "Baterai",
+    "url": "/c/kamera/baterai",
+    "count": "18542",
+    "sub": null
+  }, {
+    "name": "Tas &amp; Case",
+    "url": "/c/kamera/tas-case",
+    "count": "12521",
+    "sub": null
+  }, {
+    "name": "Monopod, Tripod, &amp; Rig",
+    "url": "/c/kamera/monopod-tripod-rig",
+    "count": "11557",
+    "sub": null
+  }, {
+    "name": "CCTV",
+    "url": "/c/kamera/cctv",
+    "count": "10147",
+    "sub": null
+  }, {
+    "name": "Filter",
+    "url": "/c/kamera/filter",
+    "count": "10048",
+    "sub": null
+  }, {
+    "name": "Charger",
+    "url": "/c/kamera/charger",
+    "count": "9348",
+    "sub": null
+  }, {
+    "name": "Kamera Digital",
+    "url": "/c/kamera/kamera-digital",
+    "count": "8869",
+    "sub": null
+  }, {
+    "name": "Hood &amp; Cap",
+    "url": "/c/kamera/hood-cap",
+    "count": "7818",
+    "sub": null
+  }, {
+    "name": "Lensa",
+    "url": "/c/kamera/lensa",
+    "count": "7772",
+    "sub": null
+  }, {
+    "name": "Action Camera",
+    "url": "/c/kamera/action-camera",
+    "count": "6248",
+    "sub": null
+  }, {
+    "name": "Spy Cam",
+    "url": "/c/kamera/spy-cam",
+    "count": "6158",
+    "sub": null
+  }, {
+    "name": "Perlengkapan Studio",
+    "url": "/c/kamera/perlengkapan-studio",
+    "count": "4280",
+    "sub": null
+  }, {
+    "name": "Memory Card",
+    "url": "/c/kamera/memory-card-194",
+    "count": "3726",
+    "sub": null
+  }, {
+    "name": "Flash",
+    "url": "/c/kamera/flash",
+    "count": "3124",
+    "sub": null
+  }, {
+    "name": "Strap",
+    "url": "/c/kamera/strap",
+    "count": "2681",
+    "sub": null
+  }, {
+    "name": "Sparepart Kamera",
+    "url": "/c/kamera/sparepart-kamera",
+    "count": "2512",
+    "sub": null
+  }, {
+    "name": "Converter &amp; Adapter",
+    "url": "/c/kamera/converter-adapter",
+    "count": "2456",
+    "sub": null
+  }, {
+    "name": "Remote &amp; Trigger",
+    "url": "/c/kamera/remote-trigger",
+    "count": "2098",
+    "sub": null
+  }, {
+    "name": "Kamera Analog",
+    "url": "/c/kamera/kamera-analog",
+    "count": "1689",
+    "sub": null
+  }, {
+    "name": "Handycam",
+    "url": "/c/kamera/handycam",
+    "count": "1146",
+    "sub": null
+  }]
+}

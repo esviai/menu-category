@@ -1,0 +1,28 @@
+{
+  "categories": [{
+    "name": "Raket Badminton",
+    "url": "/c/olahraga/badminton/raket-badminton",
+    "count": "3607",
+    "sub": null
+  }, {
+    "name": "Lain-lain",
+    "url": "/c/olahraga/badminton/lain-lain-1593",
+    "count": "2143",
+    "sub": null
+  }, {
+    "name": "Baju Badminton",
+    "url": "/c/olahraga/badminton/baju-badminton",
+    "count": "1796",
+    "sub": null
+  }, {
+    "name": "Sepatu Badminton",
+    "url": "/c/olahraga/badminton/sepatu-badminton",
+    "count": "1341",
+    "sub": null
+  }, {
+    "name": "Shuttlecock",
+    "url": "/c/olahraga/badminton/shuttlecock",
+    "count": "278",
+    "sub": null
+  }]
+}
